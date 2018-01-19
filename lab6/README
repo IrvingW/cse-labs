@@ -1,0 +1,36 @@
+自动合并 yfs_client.h
+冲突（添加/添加）：合并冲突于 yfs_client.h
+自动合并 yfs_client.cc
+冲突（添加/添加）：合并冲突于 yfs_client.cc
+自动合并 stop.sh
+冲突（添加/添加）：合并冲突于 stop.sh
+自动合并 lock_tester.cc
+冲突（添加/添加）：合并冲突于 lock_tester.cc
+自动合并 lock_smain.cc
+冲突（添加/添加）：合并冲突于 lock_smain.cc
+自动合并 lock_server.h
+冲突（添加/添加）：合并冲突于 lock_server.h
+自动合并 lock_server.cc
+冲突（添加/添加）：合并冲突于 lock_server.cc
+自动合并 lock_protocol.h
+冲突（添加/添加）：合并冲突于 lock_protocol.h
+自动合并 lock_client.cc
+冲突（添加/添加）：合并冲突于 lock_client.cc
+自动合并 fuse.cc
+冲突（添加/添加）：合并冲突于 fuse.cc
+自动合并 extent_smain.cc
+冲突（添加/添加）：合并冲突于 extent_smain.cc
+自动合并 extent_server.h
+冲突（添加/添加）：合并冲突于 extent_server.h
+自动合并 extent_server.cc
+冲突（添加/添加）：合并冲突于 extent_server.cc
+自动合并 extent_protocol.h
+冲突（添加/添加）：合并冲突于 extent_protocol.h
+自动合并 extent_client.h
+冲突（添加/添加）：合并冲突于 extent_client.h
+自动合并 extent_client.cc
+冲突（添加/添加）：合并冲突于 extent_client.cc
+自动合并 GNUmakefile
+冲突（添加/添加）：合并冲突于 GNUmakefile
+自动合并失败，修正冲突然后提交修正的结果。
+
